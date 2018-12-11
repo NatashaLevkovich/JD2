@@ -1,7 +1,7 @@
 public class GitTest {
 
     public static void binarySearch(){
-
+        ////////wladtest 111
     }
 
     private static void study () {
