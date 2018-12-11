@@ -1,10 +1,10 @@
 public class GitTest {
+
     public static void binarySearch(){
-        System.out.println("testing" +
-                2);
+
     }
 
-    private static void help () {
+    private static void study () {
         int c = 0;
         System.out.println(c);
     }
@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("Hello");
         GitTest gitTest = new GitTest();
         gitTest.binarySearch();
-
+        int i;
     }
+
 }
