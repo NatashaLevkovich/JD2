@@ -1,9 +1,4 @@
 public class GitTest {
-    public static void binarySearch(){
-        test() {
-            System.out.println("help!!!!!");
-        }
-    }
 
     private static void help () {
         int c = 0;
