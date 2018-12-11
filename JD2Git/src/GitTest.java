@@ -1,4 +1,7 @@
 public class GitTest {
+  
+    public static void main(String[] args) {
+        System.out.println("Two");
 
     public static void binarySearch(){
 
