@@ -13,7 +13,6 @@ public class GitTest {
         GitTest gitTest = new GitTest();
         gitTest.binarySearch();
         int i;
-
     }
 
 }
