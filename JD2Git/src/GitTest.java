@@ -12,6 +12,5 @@ public class GitTest {
         System.out.println("Hello");
         GitTest gitTest = new GitTest();
         gitTest.binarySearch();
-        System.out.println("test");
     }
 }
