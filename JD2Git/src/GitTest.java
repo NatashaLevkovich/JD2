@@ -1,8 +1,7 @@
 public class GitTest {
     public static void binarySearch(){
-        test() {
-            System.out.println("help!!!!!");
-        }
+        System.out.println("testing" +
+                2);
     }
 
     private static void help () {
