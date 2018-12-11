@@ -4,7 +4,7 @@ public class GitTest {
 
     }
 
-    private static void help () {
+    private static void study () {
         int c = 0;
         System.out.println(c);
     }
